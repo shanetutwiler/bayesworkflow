@@ -1,8 +1,11 @@
 # bayesworkflow
 
 This workflow for Bayesian quantitative data analysis of educational data was based on the following work:
+
 Gelman, A., Vehtari, A., Simpson, D., Margossian, C. C., Carpenter, B., Yao, Y., ... & Modrák, M. (2020). Bayesian workflow. arXiv preprint arXiv:2011.01808.
+
 Gelman, A., Hill, J., & Vehtari, A. (2021). Regression and other stories. Cambridge University Press.
+
 McElreath, R. (2020). Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC.
 
 1. Specify Scientific Models (DAGs)
