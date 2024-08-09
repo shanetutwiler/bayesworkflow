@@ -34,4 +34,4 @@ McElreath, R. (2020). Statistical rethinking: A Bayesian course with examples in
 
 7. Do Other Things! (Model Stacking, etc.)
 
-  Content: In this section, the script generates visualizations to explore the effects of the chosen priors further. It uses ggplot2 to plot the results from the prior predictive checks, visualizing how the number of classrooms affects the estimates and standard errors for the attention effect.
+  Content: In this section, the script uses leave one out (loo) cross-validation to compare models, and to then weight and stack them. Example visualizations are given via ggplot2.
