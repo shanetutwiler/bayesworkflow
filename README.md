@@ -30,7 +30,7 @@ McElreath, R. (2020). Statistical rethinking: A Bayesian course with examples in
 
 6. Scrutinize the Model
 
-  Content: The script involves scrutinizing the Bayesian model by running and interpreting prior predictive checks. Specifically, it simulates data based on ultra-wide and informative priors, plotting the expected distributions of the predictor's effect on the outcome (score). The plots help in assessing whether the chosen priors are realistic.
+  Content: The script involves scrutinizing the Bayesian model by running and interpreting posterior predictive checks and other model assumptions. 
 
 7. Do Other Things! (Model Stacking, etc.)
 
