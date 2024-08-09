@@ -26,7 +26,7 @@ McElreath, R. (2020). Statistical rethinking: A Bayesian course with examples in
 
 5. Fit Model to Data
 
-  Content: The script uses the prior information determined in the previous steps to fit a Bayesian multilevel model to the simulated data. The actual fitting process is implemented using the chosen priors.
+  Content: The script uses the prior information determined in the previous steps to fit a Bayesian multilevel model to the imported data. The actual fitting process is implemented using the chosen priors.
 
 6. Scrutinize the Model
 
